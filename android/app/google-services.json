@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2501809769",
+    "project_id": "onarproject-e5594",
+    "storage_bucket": "onarproject-e5594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2501809769:android:193c6b2a29669a23b7b4f8",
+        "android_client_info": {
+          "package_name": "com.onarproject.simoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2501809769-7kjun7706al06v0hieutar3l21ab9fhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onarproject.simoga",
+            "certificate_hash": "f07a01258e4433fdd6ffa2859e1b4a504978810a"
+          }
+        },
+        {
+          "client_id": "2501809769-q0uo6hbtc671cd6hu4vi7h6omdgpb1kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8uFGBxFn0MJhKtB4nE6RV0f-6y8vW3UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2501809769-q0uo6hbtc671cd6hu4vi7h6omdgpb1kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
