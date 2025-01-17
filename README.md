@@ -17,7 +17,7 @@ _Logo aplikasi SIMOGA_
   - Kategorisasi makanan (sarapan, makan siang, makan malam, cemilan)
   - Pencatatan alergi dan reaksi makanan
 
-  ![Dashboard Pencatatan](assets/images/dashboard.png)  
+  ![Dashboard Pencatatan](assets/images/dashboard.jpg)  
   _Tampilan dashboard pencatatan makanan harian._
 
 - **Analisis Asupan Nutrisi:**
@@ -28,7 +28,7 @@ _Logo aplikasi SIMOGA_
   - Grafik tren konsumsi makanan
   - Perbandingan dengan standar AKG (Angka Kecukupan Gizi)
 
-  ![Analisis Nutrisi](assets/images/nutrition_analysis.png)  
+  ![Analisis Nutrisi](assets/images/nutrition_analysis.jpg)  
   _Analisis detail nutrisi dari makanan yang dicatat._
 
 - **Manajemen Menu Makanan:**
@@ -39,7 +39,7 @@ _Logo aplikasi SIMOGA_
   - Pengingat waktu makan
   - Template menu mingguan
 
-  ![Manajemen Menu](assets/images/menu_management.png)  
+  ![Manajemen Menu](assets/images/menu_management.jpg)  
   _Fitur manajemen dan perencanaan menu makanan._
 
 ---
