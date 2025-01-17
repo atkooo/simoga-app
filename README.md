@@ -7,20 +7,24 @@
 ## Fitur Utama
 
 - **Pencatatan dan Pemantauan Gizi:**
+
   - Input data balita (nama, usia, berat badan, tinggi badan).
   - Pencatatan makanan yang dikonsumsi harian.
   - Monitoring asupan gizi berdasarkan Angka Kecukupan Gizi (AKG).
 
 - **Pengenalan Gambar:**
+
   - Identifikasi makanan melalui foto atau upload gambar menggunakan TensorFlow API.
   - Informasi kandungan gizi makanan yang dikenali.
 
 - **Rekomendasi Makanan:**
+
   - Saran makanan bergizi sesuai kebutuhan gizi balita.
   - Menampilkan resep untuk makanan yang disarankan.
 
 - **Statistik dan Riwayat:**
-  - Ringkasan asupan gizi harian dan status gizi balita.
+
+  - Ringkasan asupan gizi harian dan stastus gizi balita.
   - Riwayat makanan yang dikonsumsi dalam periode tertentu.
 
 - **Edukasi dan Notifikasi:**
@@ -52,3 +56,4 @@
 1. Clone repositori ini ke perangkat Anda:
    ```bash
    git clone https://github.com/username/simoga.git
+   ```
