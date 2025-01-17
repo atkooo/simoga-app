@@ -99,7 +99,22 @@ Kami membuka peluang kontribusi untuk meningkatkan sistem pencatatan makanan ini
 
 ## Lisensi
 
-Aplikasi ini dilisensikan di bawah MIT License.
+Copyright (c) 2024 Okta Maulana
+Izin dengan ini diberikan, secara gratis, kepada siapa pun yang mendapatkan salinan
+perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk menggunakan
+Perangkat Lunak tanpa batasan, termasuk namun tidak terbatas pada hak
+untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual
+salinan Perangkat Lunak, dan untuk mengizinkan orang yang menerima Perangkat Lunak
+dilengkapi untuk melakukannya, dengan ketentuan sebagai berikut:
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua
+salinan atau bagian substansial dari Perangkat Lunak.
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN
+TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAPAT DIPERDAGANGKAN,
+KECOCOKAN UNTUK TUJUAN TERTENTU DAN NONPELANGGARAN. DALAM KEADAAN APA PUN
+PENULIS ATAU PEMEGANG HAK CIPTA BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN ATAU LAINNYA
+KEWAJIBAN, BAIK DALAM TINDAKAN KONTRAK, KESALAHAN ATAU LAINNYA, YANG TIMBUL DARI,
+DARI ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU TRANSAKSI LAIN DALAM
+PERANGKAT LUNAK.
 
 ## Kontak
 
