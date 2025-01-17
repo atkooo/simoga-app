@@ -1,59 +1,109 @@
-# SIMOGA: Aplikasi Monitoring Gizi Balita dan Rekomendasi Makanan
+# SIMOGA: Aplikasi Monitoring Gizi Balita dan Pencatatan Makanan
 
-**SIMOGA** adalah aplikasi berbasis Android yang dirancang untuk membantu orang tua memantau status gizi balita dan memberikan rekomendasi makanan bergizi. Dengan teknologi pengenalan gambar menggunakan TensorFlow API, aplikasi ini menawarkan solusi praktis untuk mendukung tumbuh kembang balita secara optimal.
+![SIMOGA Logo](assets/images/logo.png)  
+_Logo aplikasi SIMOGA_
+
+**SIMOGA** adalah aplikasi berbasis Android yang dirancang untuk membantu orang tua mencatat dan memantau asupan makanan balita secara detail. Dengan fitur pencatatan makanan yang komprehensif, aplikasi ini memudahkan orang tua untuk memastikan balita mendapatkan nutrisi yang seimbang dan mendukung tumbuh kembang optimal.
 
 ---
 
 ## Fitur Utama
 
-- **Pencatatan dan Pemantauan Gizi:**
+- **Pencatatan Makanan Terperinci:**
 
-  - Input data balita (nama, usia, berat badan, tinggi badan).
-  - Pencatatan makanan yang dikonsumsi harian.
-  - Monitoring asupan gizi berdasarkan Angka Kecukupan Gizi (AKG).
+  - Input makanan dengan detail porsi dan waktu makan
+  - Kalkulasi otomatis kandungan nutrisi per makanan
+  - Riwayat makanan harian, mingguan, dan bulanan
+  - Kategorisasi makanan (sarapan, makan siang, makan malam, cemilan)
+  - Pencatatan alergi dan reaksi makanan
 
-- **Pengenalan Gambar:**
+  ![Dashboard Pencatatan](assets/images/dashboard.png)  
+  _Tampilan dashboard pencatatan makanan harian._
 
-  - Identifikasi makanan melalui foto atau upload gambar menggunakan TensorFlow API.
-  - Informasi kandungan gizi makanan yang dikenali.
+- **Analisis Asupan Nutrisi:**
 
-- **Rekomendasi Makanan:**
+  - Perhitungan total kalori harian
+  - Pemantauan asupan protein, karbohidrat, dan lemak
+  - Analisis vitamin dan mineral utama
+  - Grafik tren konsumsi makanan
+  - Perbandingan dengan standar AKG (Angka Kecukupan Gizi)
 
-  - Saran makanan bergizi sesuai kebutuhan gizi balita.
-  - Menampilkan resep untuk makanan yang disarankan.
+  ![Analisis Nutrisi](assets/images/nutrition_analysis.png)  
+  _Analisis detail nutrisi dari makanan yang dicatat._
 
-- **Statistik dan Riwayat:**
+- **Manajemen Menu Makanan:**
 
-  - Ringkasan asupan gizi harian dan status gizi balita.
-  - Riwayat makanan yang dikonsumsi dalam periode tertentu.
+  - Penyimpanan resep favorit
+  - Daftar makanan yang sering dikonsumsi
+  - Pengaturan jadwal makan
+  - Pengingat waktu makan
+  - Template menu mingguan
 
-- **Edukasi dan Notifikasi:**
-  - Informasi edukasi tentang gizi balita.
-  - Pengingat untuk input data dan pencatatan makanan rutin.
+  ![Manajemen Menu](assets/images/menu_management.png)  
+  _Fitur manajemen dan perencanaan menu makanan._
 
 ---
 
 ## Teknologi yang Digunakan
 
-- **Framework:** Flutter
-- **Backend:** Firebase
-- **AI/ML:** TensorFlow API
-- **Database:** Relasional database untuk pengelolaan data gizi, makanan, dan pengguna.
+- **Framework:** Flutter (untuk pengembangan aplikasi Android)
+- **Backend:** Firebase (untuk penyimpanan data makanan dan nutrisi)
+- **Database:** Firebase Realtime Database (untuk pencatatan real-time)
+- **API Nutrisi:** USDA Food Database API (untuk informasi kandungan gizi)
 
 ---
 
 ## Persyaratan Sistem
 
-- **Platform:** Android 6.0 (Marshmallow) atau yang lebih baru.
+- **Platform:** Android 6.0 (Marshmallow) atau yang lebih baru
 - **Spesifikasi Minimum:**
-  - RAM: 2GB
-  - Penyimpanan: 100MB ruang kosong
+  - **RAM:** 2GB
+  - **Penyimpanan:** 100MB ruang kosong
+  - **Koneksi Internet:** Diperlukan untuk sinkronisasi data
 
 ---
 
 ## Instalasi
 
 1. Clone repositori ini ke perangkat Anda:
+
    ```bash
    git clone https://github.com/username/simoga.git
    ```
+
+2. Masuk ke direktori proyek:
+
+   ```bash
+   cd simoga
+   ```
+
+3. Instal dependensi yang diperlukan:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Konfigurasi Firebase:
+
+   - Buat project Firebase di Firebase Console
+   - Unduh file `google-services.json` untuk Android dan letakkan di folder `android/app/`
+
+5. Jalankan aplikasi:
+   ```bash
+   flutter run
+   ```
+
+## Kontribusi
+
+Kami membuka peluang kontribusi untuk meningkatkan sistem pencatatan makanan ini. Jika Anda memiliki saran atau menemukan masalah, silakan buat **issue** atau ajukan **pull request**.
+
+## Lisensi
+
+Aplikasi ini dilisensikan di bawah MIT License.
+
+## Kontak
+
+- **Nama:** Okta Maulana
+- **Email:** oktamaulana12@gmail.com
+- **Alamat:** Jl. Pertamina Km.4, Sintang, Kalimantan Barat
+- **Nomor Telepon:** 081522716223
