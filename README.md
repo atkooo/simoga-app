@@ -24,7 +24,7 @@
 
 - **Statistik dan Riwayat:**
 
-  - Ringkasan asupan gizi harian dan stastus gizi balita.
+  - Ringkasan asupan gizi harian dan status gizi balita.
   - Riwayat makanan yang dikonsumsi dalam periode tertentu.
 
 - **Edukasi dan Notifikasi:**
