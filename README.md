@@ -100,21 +100,14 @@ Kami membuka peluang kontribusi untuk meningkatkan sistem pencatatan makanan ini
 ## Lisensi
 
 Copyright (c) 2024 Okta Maulana
-Izin dengan ini diberikan, secara gratis, kepada siapa pun yang mendapatkan salinan
-perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk menggunakan
-Perangkat Lunak tanpa batasan, termasuk namun tidak terbatas pada hak
-untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual
-salinan Perangkat Lunak, dan untuk mengizinkan orang yang menerima Perangkat Lunak
-dilengkapi untuk melakukannya, dengan ketentuan sebagai berikut:
-Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua
-salinan atau bagian substansial dari Perangkat Lunak.
-PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN
-TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAPAT DIPERDAGANGKAN,
-KECOCOKAN UNTUK TUJUAN TERTENTU DAN NONPELANGGARAN. DALAM KEADAAN APA PUN
-PENULIS ATAU PEMEGANG HAK CIPTA BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN ATAU LAINNYA
-KEWAJIBAN, BAIK DALAM TINDAKAN KONTRAK, KESALAHAN ATAU LAINNYA, YANG TIMBUL DARI,
-DARI ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU TRANSAKSI LAIN DALAM
-PERANGKAT LUNAK.
+Dengan ini izin diberikan kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak") untuk menggunakan Perangkat Lunak hanya untuk tujuan non-komersial, termasuk hak untuk menggunakan, menyalin, memodifikasi, dan mendistribusikan salinan Perangkat Lunak, dengan ketentuan sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian substansial dari Perangkat Lunak.
+Penggunaan perangkat lunak ini untuk tujuan komersial tanpa izin tertulis dari pemegang hak cipta dilarang.
+Setiap modifikasi atau distribusi ulang Perangkat Lunak harus mencantumkan atribusi kepada pembuat asli, yaitu Okta Maulana.
+Perangkat lunak ini tidak boleh dijual atau disublisensikan tanpa izin tertulis dari pemegang hak cipta.
+
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAPAT DIPERDAGANGKAN, KECOCOKAN UNTUK TUJUAN TERTENTU, DAN NONPELANGGARAN. DALAM KEADAAN APA PUN PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAINNYA, BAIK DALAM KONTRAK, KESALAHAN, ATAU LAINNYA, YANG TIMBUL DARI ATAU TERKAIT DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN PERANGKAT LUNAK.
 
 ## Kontak
 
